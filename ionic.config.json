@@ -1,0 +1,7 @@
+{
+  "name": "myContactsApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
